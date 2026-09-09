@@ -3,6 +3,9 @@ node_modules/
 .env.*
 dist/
 build/
+target/
+out/
+*.jar
 .vscode/
 .DS_Store
 *.log
