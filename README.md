@@ -153,3 +153,21 @@ java -jar DangerousDave.jar
 mvn clean package
 java -jar target/dangerous-dave-1.0.0.jar
 ```
+
+## 🎮 How to Play
+
+### For Windows Users (Easiest):
+1. Download both files from [Releases](https://github.com/BHAGYAPSHETTY/dangerous-dave/releases/tag/v1.0):
+   - `DangerousDave.jar`
+   - `Play-Dangerous-Dave.bat`
+2. Place them in the **same folder**
+3. **Double-click** `Play-Dangerous-Dave.bat`
+4. Game will launch automatically!
+
+### Requirements:
+- Java 17 or higher ([Download here](https://www.oracle.com/java/technologies/downloads/))
+
+### Alternative Method (Command Line):
+If you prefer, you can run directly:
+```bash
+java -jar DangerousDave.jar
